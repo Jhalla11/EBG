@@ -1213,4 +1213,4 @@ class Main:
   "Mozilla/5.0 (Maemo; Linux armv7l; rv:10.0) Gecko/20100101 Firefox/10.0 Fennec/10.0",
   "Mozilla/5.0 (Mobile; rv:26.0) Gecko/26.0 Firefox/26.0",
   "Mozilla/5.0 (Tablet; rv:26.0) Gecko/26.0 Firefox/26.0",
-  "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.42
+  "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.42",
